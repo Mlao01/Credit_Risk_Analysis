@@ -32,7 +32,7 @@ The original dataset contained 115,675 loan applications in Q1 of 2019. We used 
 ![Smote_matrix](images/Smote_matrix.PNG)
 
 * Precision: The precision is low for High-risk loans and is high for Low-risk loans.
-* Recall: High/Low risk = .64/.66
+* Recall: High/Low risk = .66/.64
 
 ### Undersampling
 
